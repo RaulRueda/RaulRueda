@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/RaulRueda/RaulRueda/blob/master/at_work.svg" alt="Raul Rueda Github" width=350px height=465px/>
+<img align="right" src="https://github.com/RaulRueda/RaulRueda/blob/master/at_work.svg" alt="Raul Rueda Github" width=auto height=250px/>
 
 ### I'm Raul Rueda 👨‍💻
 
