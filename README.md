@@ -1,6 +1,8 @@
 <img align="right" src="https://github.com/RaulRueda/RaulRueda/blob/master/at_work.svg" alt="Raul Rueda Github" width=350px height=465px/>
 
-### Hi there 👋
+### I'm Raul Rueda 👨‍💻
+
+- 🔭 I’m currently working in Oxxo Labs
 
 <!--
 **RaulRueda/RaulRueda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
