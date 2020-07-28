@@ -2,7 +2,7 @@
 
 ### I'm Raul Rueda 👨‍💻
 
-I'am Full-Stack developer living in Monterrey, Mexico. 
+I'm Full-Stack developer living in Monterrey, Mexico. 
 
 - 🏪 Currently working with Oxxo Labs, [miOxxo.](https://apps.apple.com/mx/app/mi-oxxo-m%C3%A9xico/id1473147659)
 - ⭐ Marketing agency startup [RegiosDigitales.](https://regiosdigitales.com)
