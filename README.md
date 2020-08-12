@@ -4,11 +4,11 @@
 
 I'm Full-Stack developer living in Monterrey, Mexico. 
 
-- 🏪 Currently working with Oxxo Labs, [miOxxo.](https://apps.apple.com/mx/app/mi-oxxo-m%C3%A9xico/id1473147659)
-- ⭐ Marketing agency startup [RegiosDigitales.](https://regiosdigitales.com)
+- 🏪 Oxxo Labs Full-Stack developer team, [miOxxo](https://apps.apple.com/mx/app/mi-oxxo-m%C3%A9xico/id1473147659).
+- ⭐ Digital Marketing agency startup [RegiosDigitales](https://regiosdigitales.com).
 - 📗 Im currently learning Vuejs, specific for browser.
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/raul-rueda-barajas/), [Stackoverflow.](https://stackoverflow.com/users/4616125/raul-rueda)
-- ⚡ Fun fact: I have a mouse 🖱 dependency
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/raul-rueda-barajas/) or [Stackoverflow](https://stackoverflow.com/users/4616125/raul-rueda).
+- ⚡ Fun fact: I have a mouse 🖱 dependency.
 
 <!--
 **RaulRueda/RaulRueda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
