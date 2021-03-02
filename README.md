@@ -5,7 +5,7 @@
 I'm Full-Stack developer living in Monterrey, Mexico. 
 
 - 🏪 Oxxo Labs Full-Stack developer team, [miOxxo](https://apps.apple.com/mx/app/mi-oxxo-m%C3%A9xico/id1473147659).
-- ⭐ Digital marketing agency startup [RegiosDigitales](https://regiosdigitales.com).
+- ⭐ Web design agency startup [Lazzo](https://lazzo.io).
 - 📗 I'm currently learning/working on Vuejs.
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/raul-rueda-barajas/) or [Stackoverflow](https://stackoverflow.com/users/4616125/raul-rueda).
 - 😄 Fun fact: I have a mouse 🖱 dependency.
